@@ -2,7 +2,7 @@
 
 echo "WELCOME TO TIC TAC TOE GAME"
 
-#declare -A board
+declare -A board
 
 function resetBoard()
 {
